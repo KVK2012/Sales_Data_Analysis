@@ -1,0 +1,101 @@
+OrderID,Category,SubCategory,SalesPrice,Cost,ProfitMargin,CustomerRating,QuantitySold,DateOfSale
+1,Clothing,Jeans,754.87,605.64,149.23,4,4,2021-06-17
+2,Home Appliances,Washing Machine,349.42,238.8,110.62,4,3,2023-12-16
+3,Home Appliances,Microwave,988.0,810.49,177.51,5,4,2023-05-02
+4,Furniture,Bed,375.24,308.84,66.4,2,10,2024-11-08
+5,Home Appliances,Blender,1819.61,1315.78,503.83,3,9,2021-10-14
+6,Clothing,Jeans,1809.06,1170.47,638.59,2,10,2020-03-13
+7,Clothing,Shoes,794.44,573.53,220.91,2,9,2021-08-21
+8,Furniture,Table,342.07,247.99,94.08,3,2,2020-12-05
+9,Clothing,Sweater,443.46,380.44,63.02,4,4,2024-08-10
+10,Clothing,Jacket,796.27,490.1,306.17,1,3,2021-01-25
+11,Home Appliances,Refrigerator,1469.78,1044.52,425.26,5,2,2020-12-20
+12,Clothing,Jacket,1426.51,900.72,525.79,1,10,2022-11-21
+13,Clothing,T-Shirt,1927.96,1233.01,694.95,2,9,2020-03-10
+14,Home Appliances,Blender,563.07,488.52,74.55,2,1,2020-12-20
+15,Furniture,Bed,1287.87,1133.35,154.52,3,10,2022-09-05
+16,Furniture,Bookshelf,1639.29,1114.52,524.77,2,10,2020-11-19
+17,Home Appliances,Microwave,339.36,290.97,48.39,4,6,2022-09-02
+18,Furniture,Table,111.37,79.96,31.41,4,5,2024-06-14
+19,Clothing,Sweater,1913.45,1624.38,289.07,3,7,2023-06-17
+20,Clothing,T-Shirt,581.61,512.08,69.53,2,9,2021-02-16
+21,Clothing,T-Shirt,748.84,464.18,284.66,1,8,2023-08-27
+22,Clothing,Sweater,520.51,359.18,161.33,5,5,2021-01-28
+23,Clothing,Sweater,1225.01,892.69,332.32,3,3,2020-10-27
+24,Furniture,Bookshelf,245.95,167.29,78.66,4,2,2021-07-28
+25,Furniture,Chair,1652.57,1204.19,448.38,5,8,2021-01-25
+26,Clothing,T-Shirt,230.2,182.38,47.82,2,9,2023-07-15
+27,Clothing,Jacket,1378.69,962.1,416.59,2,7,2023-04-07
+28,Home Appliances,Microwave,1049.99,899.44,150.55,3,5,2024-01-16
+29,Home Appliances,Air Conditioner,651.13,464.18,186.95,4,1,2024-10-28
+30,Home Appliances,Washing Machine,819.04,674.66,144.38,2,8,2022-01-15
+31,Home Appliances,Refrigerator,993.34,812.77,180.57,3,4,2022-07-23
+32,Clothing,Jacket,537.56,348.24,189.32,1,4,2024-10-25
+33,Electronics,Laptop,1607.36,1372.87,234.49,5,7,2024-01-28
+34,Furniture,Table,58.57,37.18,21.39,1,7,2024-04-13
+35,Home Appliances,Washing Machine,334.09,235.38,98.71,3,10,2024-03-21
+36,Furniture,Table,1945.42,1646.24,299.18,4,3,2024-07-25
+37,Electronics,Headphones,1185.84,852.28,333.56,1,2,2021-12-24
+38,Home Appliances,Washing Machine,819.7,567.61,252.09,4,4,2021-02-21
+39,Furniture,Bed,634.11,461.02,173.09,3,5,2020-12-11
+40,Clothing,Shoes,236.74,204.22,32.52,2,2,2020-06-26
+41,Home Appliances,Microwave,767.0,604.26,162.74,2,7,2022-01-17
+42,Home Appliances,Microwave,154.42,131.19,23.23,1,8,2024-10-09
+43,Clothing,Sweater,108.58,76.52,32.06,4,5,2024-04-25
+44,Home Appliances,Air Conditioner,1123.28,689.72,433.56,2,4,2024-09-11
+45,Home Appliances,Blender,1443.27,1021.47,421.8,2,8,2020-04-14
+46,Clothing,Jeans,867.92,601.66,266.26,4,9,2022-02-22
+47,Home Appliances,Microwave,1989.27,1520.45,468.82,4,10,2023-12-04
+48,Electronics,Tablet,1846.91,1555.01,291.9,3,9,2023-07-16
+49,Furniture,Table,1839.12,1285.41,553.71,1,1,2024-06-23
+50,Clothing,Sweater,486.68,348.7,137.98,1,6,2021-01-27
+51,Clothing,Sweater,1815.99,1379.75,436.24,2,6,2023-11-23
+52,Home Appliances,Blender,925.04,580.07,344.97,2,5,2021-12-24
+53,Electronics,Smartwatch,242.4,179.83,62.57,3,8,2021-06-02
+54,Electronics,Headphones,1945.82,1707.54,238.28,2,4,2023-12-01
+55,Clothing,Sweater,1300.23,922.03,378.2,5,5,2023-07-24
+56,Furniture,Bookshelf,1434.24,1205.64,228.6,1,2,2023-03-26
+57,Furniture,Sofa,707.77,632.97,74.8,1,8,2022-08-24
+58,Furniture,Table,1367.33,1084.09,283.24,4,5,2021-10-16
+59,Clothing,Shoes,1619.13,1401.05,218.08,1,10,2021-12-13
+60,Clothing,T-Shirt,1899.68,1167.56,732.12,5,1,2023-01-09
+61,Electronics,Headphones,730.39,527.49,202.9,2,5,2023-07-22
+62,Furniture,Sofa,1675.53,1458.54,216.99,5,9,2020-09-15
+63,Furniture,Bookshelf,1611.85,1159.9,451.95,4,3,2024-04-20
+64,Clothing,Jeans,1068.39,661.61,406.78,2,3,2023-05-20
+65,Furniture,Table,83.65,69.66,13.99,2,9,2022-11-12
+66,Furniture,Bed,772.29,681.97,90.32,5,5,2021-10-18
+67,Home Appliances,Air Conditioner,627.07,387.5,239.57,2,9,2024-08-09
+68,Home Appliances,Washing Machine,1836.26,1572.59,263.67,2,1,2022-04-27
+69,Electronics,Laptop,906.32,545.63,360.69,3,6,2024-10-08
+70,Home Appliances,Air Conditioner,61.65,49.94,11.71,3,4,2021-10-11
+71,Electronics,Smartphone,1821.45,1328.23,493.22,5,8,2022-10-28
+72,Clothing,T-Shirt,469.11,402.81,66.3,4,9,2021-04-22
+73,Electronics,Laptop,507.01,335.87,171.14,3,2,2023-02-05
+74,Clothing,Sweater,1841.48,1625.54,215.94,3,1,2023-09-21
+75,Electronics,Smartwatch,1520.1,1237.43,282.67,3,10,2022-02-06
+76,Home Appliances,Air Conditioner,1291.01,1092.37,198.64,1,1,2024-09-11
+77,Clothing,Sweater,651.52,524.65,126.87,1,9,2020-06-07
+78,Furniture,Bookshelf,1299.19,966.55,332.64,3,1,2022-06-07
+79,Home Appliances,Microwave,1409.65,1130.17,279.48,3,2,2020-01-25
+80,Furniture,Sofa,1554.51,1319.27,235.24,2,5,2024-02-17
+81,Electronics,Smartwatch,1396.02,1119.07,276.95,2,1,2023-07-19
+82,Home Appliances,Refrigerator,1378.92,1023.97,354.95,3,7,2023-11-24
+83,Home Appliances,Blender,1472.29,1260.8,211.49,2,2,2022-06-18
+84,Electronics,Tablet,520.19,384.08,136.11,2,1,2021-05-10
+85,Furniture,Bookshelf,1768.89,1224.52,544.37,2,9,2020-07-26
+86,Home Appliances,Air Conditioner,547.5,371.88,175.62,1,2,2021-01-03
+87,Furniture,Bed,1066.93,831.36,235.57,2,5,2022-06-12
+88,Electronics,Smartphone,409.59,318.73,90.86,5,8,2020-11-21
+89,Furniture,Table,70.46,51.01,19.45,1,8,2021-10-19
+90,Furniture,Sofa,1680.27,1484.22,196.05,4,7,2020-11-08
+91,Clothing,Shoes,1271.06,927.6,343.46,3,4,2021-02-28
+92,Clothing,Jacket,1485.19,1078.59,406.6,5,6,2024-03-14
+93,Furniture,Bed,1085.02,782.66,302.36,3,3,2021-11-12
+94,Clothing,T-Shirt,1545.52,1125.71,419.81,4,6,2021-12-06
+95,Clothing,Jacket,408.21,344.22,63.99,2,4,2022-11-17
+96,Home Appliances,Air Conditioner,1510.89,1120.02,390.87,3,9,2023-04-17
+97,Clothing,T-Shirt,264.05,161.74,102.31,5,3,2024-03-05
+98,Clothing,Jacket,412.46,257.26,155.2,4,1,2023-08-28
+99,Electronics,Smartwatch,934.76,782.15,152.61,5,3,2022-03-18
+100,Furniture,Bed,569.72,442.36,127.36,1,9,2022-03-07
